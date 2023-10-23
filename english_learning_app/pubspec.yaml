@@ -1,8 +1,8 @@
-name: english_learning_app
+name: flutter_application_1
 description: A new Flutter project.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -17,9 +17,14 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
 version: 1.0.0+1
-
+# dependencies:
+#   flutter:
+#     sdk: flutter
+#   sqflite: ^2.0.0+4
+#   path: ^1.8.0
+#   path_provider: ^2.0.5
 environment:
-  sdk: '>=2.19.4 <3.0.0'
+  sdk: ">=2.19.4 <3.0.0"
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -30,11 +35,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  # sqflite: ^2.0.0+4
+  path: ^1.8.0
+  path_provider: ^2.0.5
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  sqflite: ^2.2.8+4
+  http: ^0.13.6
 
 dev_dependencies:
   flutter_test:
@@ -52,15 +61,33 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - lib/content/exercise.json
+    - lib/content/grammar.json
+    - lib/content/quizes.json
+    - lib/content/vocabulary.json
+    - lib/ppppp.png
+    - lib/grgrg.webp
+    - lib/vovv.jpg
+    - lib/graquiz.jpg
+    - lib/voquiz.jpg
+    - lib/vocexec.jpg
+    - lib/graexc.jpg
+    - lib/vexce.jpg
+    - lib/images/agree.webp
+    - lib/images/article.jpg
+    - lib/images/parts.jpg
+    - lib/images/sentence.jpg
+    - lib/images/sentype.jpg
+    - lib/images/tense.jpg
+    - lib/images/verb.jpg
+
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
