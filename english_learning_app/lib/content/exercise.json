@@ -1,0 +1,222 @@
+[
+    {
+      "type": "vocabulary",
+      "question": "What part of speech is the word 'abundance'?",
+      "alternatives": [
+        "verb",
+        "noun",
+        "adjective",
+        "adverb"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "vocabulary",
+      "question": "What is the meaning of the word 'bewilder'?",
+      "alternatives": [
+        "to entertain someone",
+        "to confuse or puzzle someone",
+        "to inform someone",
+        "to ignore someone"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "vocabulary",
+      "question": "What is the phonetic transcription of the word 'candid'?",
+      "alternatives": [
+        "/ˈkændɪd/",
+        "/kənˈdɪd/",
+        "/ˈkændit/",
+        "/kænˈdid/"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "vocabulary",
+      "question": "What is the meaning of the word 'diligent'?",
+      "alternatives": [
+        "lazy and careless",
+        "hard-working and careful",
+        "disrespectful and rude",
+        "unreliable and inconsistent"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "vocabulary",
+      "question": "What is the definition of the word 'eccentric'?",
+      "alternatives": [
+        "conventional and usual in behavior or appearance",
+        "intelligent and wise",
+        "unconventional or unusual in behavior or appearance",
+        "boring and uninteresting"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "vocabulary",
+      "question": "What is the meaning of the word 'futile'?",
+      "alternatives": [
+        "pointless or useless",
+        "interesting and engaging",
+        "important and significant",
+        "successful and effective"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "vocabulary",
+      "question": "What is the part of speech of the word 'gregarious'?",
+      "alternatives": [
+        "noun",
+        "verb",
+        "adjective",
+        "adverb"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "vocabulary",
+      "question": "What is a hypothesis?",
+      "alternatives": [
+        "a proven fact",
+        "a guess or assumption",
+        "a law of nature",
+        "a mathematical formula"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "vocabulary",
+      "question": "What does the word 'imminent' mean?",
+      "alternatives": [
+        "far away in time or space",
+        "about to happen",
+        "unlikely or impossible",
+        "already happened"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "vocabulary",
+      "question": "What does it mean to 'juxtapose' two things?",
+      "alternatives": [
+        "to separate two things",
+        "to combine two things into one",
+        "to place side by side for comparison",
+        "to ignore two things"
+      ],
+      "answer": 2
+    },
+    {
+        "type": "grammar",
+        "question": "What is a noun?",
+        "alternatives": [
+            "A word used to express strong emotion or surprise",
+            "A word used to describe or modify a noun or pronoun",
+            "A word used to identify any of a class of people, places, or things",
+            "A word used to describe an action, state, or occurrence"
+        ],
+        "answer": 2
+    },
+    {
+        "type": "grammar",
+        "question": "What is a pronoun?",
+        "alternatives": [
+            "A word used to describe or modify a noun or pronoun",
+            "A word used in place of a noun to avoid repetition",
+            "A word used to show the relationship between a noun or pronoun and other words in a sentence",
+            "A word used to join words, phrases, or clauses together"
+        ],
+        "answer": 1
+    },
+    {
+        "type": "grammar",
+        "question": "What is a verb?",
+        "alternatives": [
+            "A word used to identify any of a class of people, places, or things",
+            "A word used to describe or modify a noun or pronoun",
+            "A word used in place of a noun to avoid repetition",
+            "A word used to describe an action, state, or occurrence"
+        ],
+        "answer": 3
+    },
+    {
+        "type": "grammar",
+        "question": "What is an adjective?",
+        "alternatives": [
+            "A word used to describe or modify a noun or pronoun",
+            "A word used to describe or modify a verb, adjective, or other adverb",
+            "A word used to show the relationship between a noun or pronoun and other words in a sentence",
+            "A word used to join words, phrases, or clauses together"
+        ],
+        "answer": 0
+    },
+    {
+        "type": "grammar",
+        "question": "What is an adverb?",
+        "alternatives": [
+            "A word used to show the relationship between a noun or pronoun and other words in a sentence",
+            "A word used to join words, phrases, or clauses together",
+            "A word used to describe or modify a noun or pronoun",
+            "A word used to describe or modify a verb, adjective, or other adverb"
+        ],
+        "answer": 3
+    },
+    {
+        "type": "grammar",
+        "question": "What is a preposition?",
+        "alternatives": [
+            "A word used to describe or modify a noun or pronoun",
+            "A word used to identify any of a class of people, places, or things",
+            "A word used to show the relationship between a noun or pronoun and other words in a sentence",
+            "A word used to join words, phrases, or clauses together"
+        ],
+        "answer": 2
+    },
+    {
+        "type": "grammar",
+        "question": "What is a conjunction?",
+        "alternatives": [
+            "A word used to describe or modify a noun or pronoun",
+            "A word used to identify any of a class of people, places, or things",
+            "A word used to join words, phrases, or clauses together",
+            "A word used in place of a noun to avoid repetition"
+        ],
+        "answer": 2
+    },
+    {
+        "type": "grammar",
+        "question": "What is an interjection?",
+        "alternatives": [
+            "A word used to express strong emotion or surprise",
+            "A word used to describe or modify a noun or pronoun",
+            "A word used to show the relationship between a noun or pronoun and other words in a sentence",
+            "A word used to join words, phrases, or clauses together"
+        ],
+        "answer": 0
+    },
+    {
+        "type": "grammar",
+        "question": "What is the subject of a sentence?",
+        "alternatives": [
+            "The part of a sentence that contains the verb and describes the action or state of the subject",
+            "The person, place, thing, or idea that the sentence is about",
+            "The person, place, thing, or idea that is affected by the action of the verb",
+            "A group of words that contains a subject and a predicate"
+        ],
+        "answer": 1
+    },
+    {
+        "type": "grammar",
+        "question": "What is the predicate of a sentence?",
+        "alternatives": [
+            "The part of a sentence that contains the verb and describes the action or state of the subject",
+            "The person, place, thing, or idea that the sentence is about",
+            "The person, place, thing, or idea that is affected by the action of the verb",
+            "A group of words that contains a subject and a predicate"
+        ],
+        "answer": 0
+    }
+  ]

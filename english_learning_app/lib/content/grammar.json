@@ -1,0 +1,197 @@
+[
+  {
+    "title": "Nouns",
+    "category": "parts of speech",
+    "definition": "a word used to identify any of a class of people, places, or things",
+    "explanation": "Nouns can be either singular or plural, and can be used as the subject or object of a sentence.",
+    "examples": ["dog", "house", "city"]
+  },
+  {
+    "title": "Pronouns",
+    "category": "parts of speech",
+    "definition": "a word used in place of a noun to avoid repetition",
+    "explanation": "Pronouns can be personal (e.g. he, she, they), possessive (e.g. his, hers, theirs), demonstrative (e.g. this, that), or relative (e.g. who, whom, whose).",
+    "examples": ["he", "she", "they"]
+  },
+  {
+    "title": "Verbs",
+    "category": "parts of speech",
+    "definition": "a word used to describe an action, state, or occurrence",
+    "explanation": "Verbs can be either regular or irregular, and can be used in different tenses to indicate when the action occurred.",
+    "examples": ["run", "jump", "think"]
+  },
+  {
+    "title": "Adjectives",
+    "category": "parts of speech",
+    "definition": "a word used to describe or modify a noun or pronoun",
+    "explanation": "Adjectives can be used to indicate the size, color, shape, or other qualities of a noun or pronoun.",
+    "examples": ["big", "blue", "round"]
+  },
+  {
+    "title": "Adverbs",
+    "category": "parts of speech",
+    "definition": "a word used to describe or modify a verb, adjective, or other adverb",
+    "explanation": "Adverbs can be used to indicate the time, place, manner, or degree of an action or quality.",
+    "examples": ["quickly", "loudly", "very"]
+  },
+  {
+    "title": "Prepositions",
+    "category": "parts of speech",
+    "definition": "a word used to show the relationship between a noun or pronoun and other words in a sentence",
+    "explanation": "Prepositions can be used to indicate location, time, or other relationships between words.",
+    "examples": ["in", "on", "at"]
+  },
+  {
+    "title": "Conjunctions",
+    "category": "parts of speech",
+    "definition": "a word used to join words, phrases, or clauses together",
+    "explanation": "Conjunctions can be used to indicate the relationship between words or clauses, such as addition, contrast, or cause and effect.",
+    "examples": ["and", "but", "because"]
+  },
+  {
+    "title": "Interjections",
+    "category": "parts of speech",
+    "definition": "a word used to express strong emotion or surprise",
+    "explanation": "Interjections are often used at the beginning of a sentence, and are not grammatically related to the rest of the sentence.",
+    "examples": ["wow", "ouch", "hey"]
+  },
+  {
+    "title": "Subject",
+    "category": "sentence structure",
+
+    "definition": "the person, place, thing, or idea that the sentence is about",
+    "explanation": "The subject can be a noun, pronoun, or other noun phrase.",
+    "examples": ["Mary", "the cat", "the book"]
+  },
+  {
+    "title": "Predicate",
+    "category": "sentence structure",
+
+    "definition": "the part of a sentence that contains the verb and describes the action or state of the subject",
+    "explanation": "The predicate can be a verb, verb phrase, or other phrase that describes the subject.",
+    "examples": ["is sleeping", "ate lunch", "runs fast"]
+  },
+  {
+    "title": "Object",
+    "category": "sentence structure",
+
+    "definition": "the person, place, thing, or idea that is affected by the action of the verb",
+    "explanation": "The object can be a noun, pronoun, or other noun phrase.",
+    "examples": ["the ball", "him", "the idea"]
+  },
+  {
+    "title": "Phrase",
+    "category": "sentence structure",
+    "definition": "a group of words that functions as a unit within a sentence",
+    "explanation": "Phrases can be noun phrases, verb phrases, or other types of phrases.",
+    "examples": ["in the morning", "to the store", "running late"]
+  },
+  {
+    "title": "Clause",
+    "category": "sentence structure",
+    "definition": "a group of words that contains a subject and a predicate",
+    "explanation": "Clauses can be independent (complete sentences) or dependent (incomplete sentences that rely on another clause).",
+    "examples": ["She is reading a book", "After the movie ended", "Because he was hungry"]
+  },
+  {
+    "title": "Infinitive",
+    
+    "category": "verb forms",
+    "definition": "the base form of a verb, usually preceded by 'to'",
+    "explanation": "Infinitives can be used as noun phrases, adjective phrases, or adverb phrases.",
+    "examples": ["to run", "to eat", "to sleep"]
+  },
+  {
+    "title": "Gerund",
+    "category": "verb forms",
+
+    "definition": "a verb form that ends in -ing and functions as a noun",
+    "explanation": "Gerunds can be used as subjects, objects, or complements in a sentence.",
+    "examples": ["running", "eating", "sleeping"]
+  },
+  {
+    "title": "Participle",
+    "category": "verb forms",
+
+    "definition": "a verb form that can be used as an adjective",
+    "explanation": "Participles can be present (-ing) or past (-ed), and describe the subject of the sentence.",
+    "examples": ["running shoes", "broken window", "written report"]
+  },
+  {
+    "title": "Tenses",
+    "category": "tenses",
+
+    "definition": "the form of a verb that indicates when the action occurred",
+    "explanation": "Tenses can be present, past, or future, and can be simple, continuous, perfect, or perfect continuous.",
+    "examples": ["present simple: I eat", "past continuous: She was singing", "future perfect: They will have arrived"]
+  },
+  {
+    "title": "Declarative Sentences",
+    "category": "Sentence Types",
+
+    "definition": "a sentence that makes a statement or assertion",
+    "explanation": "Declarative sentences end with a period, and can be positive or negative.",
+    "examples": ["The sun is shining.", "I am not hungry."]
+  },
+  {
+    "title": "Interrogative Sentences",
+    "category": "Sentence Types",
+
+    "definition": "a sentence that asks a question",
+    "explanation": "Interrogative sentences end with a question mark, and can be yes/no questions or wh- questions.",
+    "examples": ["Do you like pizza?", "What is your name?"]
+  },
+  {
+    "title": "Imperative Sentences",
+    "category": "Sentence Types",
+    
+    "definition": "a sentence that gives a command or instruction",
+    "explanation": "Imperative sentences can be positive or negative, and often do not include a subject.",
+    "examples": ["Clean your room.", "Don't touch that."]
+  },
+  {
+    "title": "Exclamatory Sentences",
+    "category": "Sentence Types",
+
+    "definition": "a sentence that expresses strong emotion or surprise",
+    "explanation": "Exclamatory sentences end with an exclamation mark, and often begin with 'what' or 'how'.",
+    "examples": ["What a beautiful day!", "How amazing!"]
+  },
+  {
+    "title": "Subject-Verb Agreement",
+    "category": "agreement",
+
+    "definition": "the agreement between the subject and verb in a sentence",
+    "explanation": "The verb must agree with the subject in number (singular or plural) and person (first, second, or third).",
+    "examples": ["She runs every day.", "They eat pizza for lunch."]
+  },
+  {
+    "title": "Pronoun-Antecedent Agreement",
+    "category": "agreement",
+
+    "definition": "the agreement between a pronoun and its antecedent (the noun it replaces)",
+    "explanation": "The pronoun must agree with the antecedent in number (singular or plural) and gender (masculine, feminine, or neuter).",
+    "examples": ["He likes his new car.", "They are going to their house."]
+  },
+  {
+    "title": "Definite Article ('the')",
+    "category": "articles",
+    
+    "definition": "the article used to refer to a specific noun",
+    "explanation": "The definite article is used before a noun that has already been mentioned or is known to both the speaker and listener.",
+    "examples": ["the cat", "the book", "the Eiffel Tower"]
+  },
+  {
+    "title": "Indefinite Articles ('a,' 'an')",
+    "category": "articles",
+
+    "definition": "the articles used to refer to any member of a class of nouns",
+    "explanation": "The indefinite article 'a' is used before a noun that begins with a consonant sound, and the indefinite article 'an' is used before a noun that begins with a vowel sound.",
+    "examples": ["a cat", "an apple", "a house"]
+  }
+]
+
+
+
+
+

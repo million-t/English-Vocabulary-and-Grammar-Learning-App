@@ -1,0 +1,72 @@
+[
+  {
+    "word": "abundance",
+    "meaning": "a very large quantity of something",
+    "part_of_speech": "noun",
+    "examples": ["There is an abundance of food at the party."],
+    "phonetic_transcription": "/əˈbʌndəns/"
+  },
+  {
+    "word": "bewilder",
+    "meaning": "to confuse or puzzle someone",
+    "part_of_speech": "verb",
+    "examples": ["The instructions completely bewildered me."],
+    "phonetic_transcription": "/bɪˈwɪldər/"
+  },
+  {
+    "word": "candid",
+    "meaning": "honest and straightforward",
+    "part_of_speech": "adjective",
+    "examples": ["She gave us a candid assessment of the situation."],
+    "phonetic_transcription": "/ˈkændɪd/"
+  },
+  {
+    "word": "diligent",
+    "meaning": "hard-working and careful",
+    "part_of_speech": "adjective",
+    "examples": ["She is a diligent worker who always meets her deadlines."],
+    "phonetic_transcription": "/ˈdɪlɪdʒənt/"
+  },
+  {
+    "word": "eccentric",
+    "meaning": "unconventional or unusual in behavior or appearance",
+    "part_of_speech": "adjective",
+    "examples": ["He's known for his eccentric outfits and hairstyles."],
+    "phonetic_transcription": "/ɪkˈsɛntrɪk/"
+  },
+  {
+    "word": "futile",
+    "meaning": "pointless or useless",
+    "part_of_speech": "adjective",
+    "examples": ["It's futile to argue with him; he never changes his mind."],
+    "phonetic_transcription": "/ˈfjuːtaɪl/"
+  },
+  {
+    "word": "gregarious",
+    "meaning": "sociable and outgoing",
+    "part_of_speech": "adjective",
+    "examples": ["She's a gregarious person who loves to be around others."],
+    "phonetic_transcription": "/ɡrɪˈɡeəriəs/"
+  },
+  {
+    "word": "hypothesis",
+    "meaning": "a proposed explanation for a phenomenon",
+    "part_of_speech": "noun",
+    "examples": ["Her hypothesis is that the experiment will fail."],
+    "phonetic_transcription": "/haɪˈpɒθɪsɪs/"
+  },
+  {
+    "word": "imminent",
+    "meaning": "about to happen",
+    "part_of_speech": "adjective",
+    "examples": ["There's an imminent threat of a hurricane hitting the coast."],
+    "phonetic_transcription": "/ˈɪmɪnənt/"
+  },
+  {
+    "word": "juxtapose",
+    "meaning": "to place side by side for comparison",
+    "part_of_speech": "verb",
+    "examples": ["The artist juxtaposed images of war and peace in his latest exhibit."],
+    "phonetic_transcription": "/ˌdʒʌkstəˈpəʊz/"
+  }
+]
